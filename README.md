@@ -1,3 +1,6 @@
-# 42-Projects
+# Get_Next_line
 
-Get_next_line / Norminette OK / Moulinette OK / 125%
+Cursus 42
+Norminette OK
+Moulinette OK
+Bonus included
